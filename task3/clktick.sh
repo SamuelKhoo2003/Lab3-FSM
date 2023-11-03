@@ -15,3 +15,4 @@ echo "\nRunning simulation"
 obj_dir/Vclktick
 echo "\nSimulation completed"
 
+# MY N VALUE is 24/25
